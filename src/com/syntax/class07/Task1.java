@@ -12,7 +12,8 @@ public class Task1 {
 			day++;
 			if (day == 6 || day == 7) {
 				System.out.println("I do not need a day off any more");
-				workDay = false;
+				//workDay = false;
+				break;
 			}
 		}
 
@@ -26,7 +27,8 @@ public class Task1 {
 				System.out.println("I need a day off");
 			} else {
 				System.out.println("It is weekend and I'm off");
-				workDay1 = false;
+				//workDay1 = false;
+				break;
 			}
 
 			day1++;
