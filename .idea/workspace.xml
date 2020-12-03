@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eac7656b-3f15-4fd6-b346-1cfd5c9bd6d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class12/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/AccountMyVariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/BankApplicationMyVariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/ClassesInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/DogProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class13/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/Concat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/Contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/EndsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/EqualsIgnoreCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/EqualsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/IsEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/LaptopObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/Length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/StartsWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/ToLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/ToUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class14/Trim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/CharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/IndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/ReplaceAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/StringBuilderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/TaskSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Tasks2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class15/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/HW1AnotherVariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/HW2AnotherVariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/HW3AnotherVariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/MainForChecking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/MainTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/TaskClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/Temp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class16/VoidMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/MainForHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class17/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/EmployeeAnotherVariant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/MainForHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class18/StudentsAnotherWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/BookHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/ClassTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/HW1AnotherWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/HW2AnotherWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/HW3AnotherWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/MainHW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/MainHW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/StudentHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class19/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/ChemistryTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Child1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/GrandFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/MainTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/MathTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/ParentChildTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/PianoTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Task3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class20/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/ChemistryTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/CircleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/ClassB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Davit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/GrandParents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/MainUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/MathTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/MoneerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/ParentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/ShapeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/TeacherTesterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/UserClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class21/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/HW1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/HWClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/JustClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/MainHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class22/Programming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Bachelors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Danilo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/DaniloFamilyTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/DaniloParents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/DaniloSister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Degree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/InterviewQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/MainForDegree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Masters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/ObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/OverridingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/PrevClassTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/PrevClassTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/PrevClassTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/PrevClassTask4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class23/Visa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class24/VarArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/CompTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/Dell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/FinalKeywordDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/FinalMethodChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/FinalMethodClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/FinalParentClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/HP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/Lenovo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/MainComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/NaughtyChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class25/SmartMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/FileMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/JavaFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/PDFFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/PhoneTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/VehicleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class26/WordFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ChildClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ChildClassTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ChromeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/ExpMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/FirefoxDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MainWebdriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MyInterface2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/MyInterface3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/SeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class27/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/GUIAppPart2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/PayFee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Person1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Person1Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/PrintInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class28/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ArrayListAddAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ArrayListClearAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ArrayListContainsAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ArrayListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ArrayListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ArrayListIterator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ArrayListRemoveAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/ArrayListRetainAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/Arrays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/BoxingUnBoxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class29/WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ArrayClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ArrayClassDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/ArrayListIteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/DoNotTryAtHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/IteratorDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/IteratorDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/IteratorDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/IteratorDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/LinkedHashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/LinkedListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/MultiDimentionalArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/class30/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass04/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass04/ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass04/NestedForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass04/Repl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass04/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass04/WhileLoopWithBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass05/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass05/Recap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass05/ReplITStringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass05/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass05/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass05/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass06/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass06/ClassesAndObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass06/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass06/Librarian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass06/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass06/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass07/GUIApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass07/StringClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass07/StringClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass07/StringPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass08/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass08/CalculatorTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass08/CalculatorTester2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass08/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass08/MethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass08/MethodExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass08/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass09/InstanceVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass09/InstanceVarDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass09/LocalVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reviewJavaClass09/StaticVarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBatch8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBatch8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/ForVSEnhancedFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/ForVSEnhancedFor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/HW1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/HW1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/HW2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/HW2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/HW3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/HW3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/HW4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/HW4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/HW5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/HW5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/HW7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/HW7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/HW8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/HW8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/HW9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/HW9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/syntax/class12/Q5FromEd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/syntax/class12/Q5FromEd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/reviewJavaClass04/WhileLoopWithSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/reviewJavaClass04/WhileLoopWithSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reviewJavaClass04/WhileLoopWithSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reviewJavaClass04/WhileLoopWithSwitch.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/syntax/class14/StringMethods.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jSJvoCXmjdEh8VkAgd8D6VXE6c" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Selenium_folder/client-combined-3.141.59.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.syntax.class23" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StaticVarDemo">
+    <configuration name="InstanceVarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewJavaClass09.InstanceVarDemo" />
+      <module name="JavaBatch8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reviewJavaClass09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceVarDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewJavaClass09.InstanceVarDemo2" />
+      <module name="JavaBatch8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reviewJavaClass09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocalVarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewJavaClass09.LocalVarDemo" />
+      <module name="JavaBatch8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reviewJavaClass09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticVarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reviewJavaClass09.StaticVarDemo" />
+      <module name="JavaBatch8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reviewJavaClass09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.class30.TreeSetDemo" />
+      <module name="JavaBatch8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.class30.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StaticVarDemo" />
+        <item itemvalue="Application.InstanceVarDemo2" />
+        <item itemvalue="Application.InstanceVarDemo" />
+        <item itemvalue="Application.LocalVarDemo" />
+        <item itemvalue="Application.TreeSetDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eac7656b-3f15-4fd6-b346-1cfd5c9bd6d4" name="Default Changelist" comment="" />
+      <created>1603649213294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603649213294</updated>
+      <workItem from="1603649215923" duration="7739000" />
+      <workItem from="1603791799507" duration="4004000" />
+      <workItem from="1603804126732" duration="635000" />
+      <workItem from="1603805966855" duration="2821000" />
+      <workItem from="1603884705673" duration="21977000" />
+      <workItem from="1603969871424" duration="6705000" />
+      <workItem from="1604057380584" duration="12884000" />
+      <workItem from="1604153425829" duration="15801000" />
+      <workItem from="1604231096305" duration="7550000" />
+      <workItem from="1604242529203" duration="35971000" />
+      <workItem from="1604656684386" duration="81389000" />
+      <workItem from="1605121182327" duration="16303000" />
+      <workItem from="1605292979976" duration="603000" />
+      <workItem from="1605304511562" duration="129571000" />
+      <workItem from="1606215458450" duration="24301000" />
+      <workItem from="1606310180145" duration="1223000" />
+      <workItem from="1606314756303" duration="5000" />
+      <workItem from="1606315096618" duration="4371000" />
+      <workItem from="1606383520917" duration="1483000" />
+      <workItem from="1606394109374" duration="43000" />
+      <workItem from="1606575807115" duration="29374000" />
+      <workItem from="1606728185079" duration="607000" />
+      <workItem from="1606738687411" duration="9000" />
+      <workItem from="1606816564910" duration="12538000" />
+      <workItem from="1606913521362" duration="1193000" />
+      <workItem from="1606944014798" duration="1558000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/reviewJavaClass04/Task1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

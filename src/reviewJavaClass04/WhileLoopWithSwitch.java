@@ -7,9 +7,8 @@ public class WhileLoopWithSwitch {
 	public static void main(String[] args) {
 		double num1, num2, result;
 		char operation;
-		boolean continueLoop = true;
-		
-		while(continueLoop) {
+
+		while(true) {
 		System.out.println("Please enter two numbers");
 		Scanner input = new Scanner(System.in);
 		num1 = input.nextDouble();
@@ -17,7 +16,12 @@ public class WhileLoopWithSwitch {
 		
 		System.out.println("Please enter the operation +-/*");
 		operation = input.next().charAt(0);
-		
+
+		if(!(operation=='+' || operation=='-' || operation=='/'|| operation=='*')){
+			System.out.println("Operation not supported");
+			continue;
+		}
+
 		switch(operation) {
 		case '+': 
 			result = num1+num2;
@@ -37,7 +41,7 @@ public class WhileLoopWithSwitch {
 		System.out.println(result);
 		System.out.println("Enter Yes to perform more operations and No");
 		if("No".equals(input.next())) {
-			continueLoop = false;
+			break;
 		}
 		
 		}
